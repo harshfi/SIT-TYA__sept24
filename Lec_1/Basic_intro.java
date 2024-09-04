@@ -10,6 +10,8 @@ public class Basic_intro {
 	    int j=12;
 	    int sum=i+++j---i---6+i;
 	    System.out.println(sum);
+	    System.out.print(sum);
+		
 		
 		
 	}
